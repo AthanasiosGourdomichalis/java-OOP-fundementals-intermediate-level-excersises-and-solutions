@@ -1,0 +1,2 @@
+# JAVA-OOP-fundementals-intermediate-level-excersises-PART-2
+Prompts and solutions for intermediate Java exercises covering 2D arrays, interfaces, method overloading, object composition, class inheritance, and custom array-based data structures with CLI interfaces. README.md provides a breakdown for each excersise. In each folder I provide an ASSIGNMENT.pdf file with more info on assignments' requirements.
