@@ -1,4 +1,4 @@
-# JAVA OOP fundementals intermediate level excersises PART 2
+# java OOP programms: fundementals, intermediate level excersises part 2
 A structured collection of Java assignments designed to practice 2D array manipulation, core OOP principles (interfaces, inheritance, composition), method overloading, and console-based management systems.
 # Exercises Breakdown
 # Exercise 1: Mayoral Election Statistics (App1.java)
