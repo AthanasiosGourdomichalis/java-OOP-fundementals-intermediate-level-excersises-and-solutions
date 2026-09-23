@@ -1,4 +1,4 @@
-# java OOP programms: fundementals, intermediate level excersises part 2
+# Java OOP programs: fundementals, intermediate level excersises part 2
 A structured collection of Java assignments designed to practice 2D array manipulation, core OOP principles (interfaces, inheritance, composition), method overloading, and console-based management systems.
 # Exercises Breakdown
 # Exercise 1: Mayoral Election Statistics (App1.java)
@@ -17,3 +17,10 @@ Designing encapsulated data models for a custom calendar date (myDate) and a Cus
 Implementing a fixed-size 1D array container of Customer objects featuring insertion, code-based search, and batch listing operations.  
 # Exercise 8: Interactive Customer Management CLI (App6.java)
 Building a console-driven, loop-based menu interface to interactively insert, look up, and display customer records. 
+
+---
+
+# 👤 Author
+## Athanasios Gourdomichalis - https://github.com/AthanasiosGourdomichalis
+
+---
