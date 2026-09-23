@@ -19,8 +19,7 @@ Implementing a fixed-size 1D array container of Customer objects featuring inser
 Building a console-driven, loop-based menu interface to interactively insert, look up, and display customer records. 
 
 ---
-
 # 👤 Author
-## Athanasios Gourdomichalis - https://github.com/AthanasiosGourdomichalis
+## **Athanasios Gourdomichalis** - [GitHub Profile](https://github.com/AthanasiosGourdomichalis)
 
 ---
