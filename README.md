@@ -1,4 +1,4 @@
-# Java Core & OOP Programming: Intermediate Exercises & Systems `[part 2]`
+# Java Core & OOP Programming: Intermediate Exercises & Systems `[Computer Programming with Java Assignment]` `[part 2]`
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Level: Intermediate](https://img.shields.io/badge/Level-Intermediate-orange)
 
